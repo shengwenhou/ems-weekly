@@ -1,4 +1,9 @@
-# 【EMS 每週摘要排程 Prompt v3】
+> ⛔ **本版已停用（DEPRECATED）**
+> 自 2026-07-12 起停用，請改用最新版 **[`prompt-v4.md`](./prompt-v4.md)**。
+> v4 相對 v3 的改進：①每條開頭標註地區（美國新聞務必標「美國」）②強化台灣救護來源。
+> 本檔僅保留作歷史存查，排程請勿再引用。
+
+# 【EMS 每週摘要排程 Prompt v3】（已停用）
 
 搜尋過去 7 天（以執行日回推）全球 EMS（emergency medical services）的重要新聞、政策、科技與趨勢。來源以 EMS1、JEMS、Firehouse、EMS.gov、NHTSA、歐洲/日本/澳洲官方與主流媒體為主；Reddit/X 等社群平台若搜尋不到內容即跳過，不必勉強，可改以產業媒體的熱門/爭議報導作為社群聲量的 proxy。
 
