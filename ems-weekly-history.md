@@ -16,4 +16,13 @@
 7.【會議】EMS World Expo 2026＋NAEMT 年會，2026/09/28–10/02，Orlando（Orange County Convention Center）
 8.【未來活動】NHTSA EMS Focus 網路研討會，2026/07/23（線上）
 
+## 2026-07-12（涵蓋 2026/07/05–07/12）
+
+1. 北卡 Cleveland County 救護車遭酒駕高速追撞翻覆，資深 paramedic Ashley Moore 殉職，肇事者被控二級謀殺（事件日期 2026-07-06）
+2. 俄亥俄 Springfield 消防員／paramedic 依法院命令護送精神評估病患時遭刺傷（事件日期 2026-07-08）
+3. 紐約 Rockland 郡救護導入 Cyanokit 氰化物解毒劑（14套、快速反應車）（事件日期 2026-07-10）
+4.【聯邦補助】HHS／SAMHSA 鄉村 EMS 訓練計畫釋出 US$13.5M，申請截止 2026-07-16
+5.【全國活動】National EMS Memorial Weekend of Honor，2026/07/17–19，Arlington VA（Hyatt Regency Crystal City）；悼念全美18州37位殉職 EMS／空中醫療人員
+6. 賓州 2026 年度 EMS Agency of the Year：McCandless-Franklin Park Ambulance Authority（PEHSC／州衛生部公布，事件日期 2026-07 本週）
+
 <!-- 下週請在此線以下附加新清單 -->
