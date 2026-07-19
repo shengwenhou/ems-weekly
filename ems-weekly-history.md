@@ -16,4 +16,14 @@
 7.【會議】EMS World Expo 2026＋NAEMT 年會，2026/09/28–10/02，Orlando（Orange County Convention Center）
 8.【未來活動】NHTSA EMS Focus 網路研討會，2026/07/23（線上）
 
+## 2026-07-19（涵蓋 2026/07/13–07/19）
+
+1.【美國】全國 EMS「榮耀週末」(Weekend of Honor) 追悼 37 位殉職 EMS／空中醫療人員，Arlington VA（事件日期 2026-07-17–19）
+2.【美國】馬里蘭資深 paramedic Kevin Wells 下夜班返家途中於巴爾的摩 I-95 三車事故殉職（事件日期 2026-07-14）
+3.【美國】加州聖荷西市議會核定 US$76.4 萬「社區 paramedicine」試辦小組（事件日期 2026-07-16）
+4.【美國】CMS 擬將 GEMT／Medicaid 補助上限壓至 Medicare 救護費率；AAA 動員會員陳情（事件日期 2026-07-15；新制擬 2029 生效）
+5.【台灣】高雄市消防局連兩日 OHCA 成功救回、現場 ROSC（環內分隊 7/17、十全分隊 7/18）（事件日期 2026-07-17、2026-07-18）
+6.【會議】NAEMSE 全國 EMS 教育者年會與展會，2026/08/10–15，Reno NV（Peppermill Resort Spa Casino）
+7.【會議】ACPIC26 澳紐 paramedicine 國際會議，2026/09/15–18，Adelaide Convention Centre（澳洲）
+
 <!-- 下週請在此線以下附加新清單 -->
