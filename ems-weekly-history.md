@@ -16,4 +16,14 @@
 7.【會議】EMS World Expo 2026＋NAEMT 年會，2026/09/28–10/02，Orlando（Orange County Convention Center）
 8.【未來活動】NHTSA EMS Focus 網路研討會，2026/07/23（線上）
 
+## 2026-08-16（涵蓋 2026/08/10–08/16）
+
+1.【英國】Wickford（Essex）Greater Anglia 列車出軌，EEAST 大規模應變、兩架空中救護降落軌道旁（事件日期 2026-08-14）
+2.【美國】NHTSA/OEMS 公布《National EMS Education Standards》修訂草案並開放公眾意見（事件日期 2026-08-16）
+3.【台灣】新竹市消防局 EMT-1／EMT-2 繼續教育複訓，407 人完訓（事件日期 2026-08-12，8 月梯次）
+4.【英國】EEAST paramedic 獲 University of Cumbria 健康學院「年度學徒」（事件日期 2026-08-11）
+5.【會議・美國】NAEMSE 全國 EMS 教育者研討會＋展會，2026/08/10–15，Reno NV（Peppermill Resort Spa Casino）
+6.【會議・美國】NAEMSP 2027 全國 EMS 醫師年會，2027/01/11–16，Austin TX（JW Marriott Austin）
+7.【線上・美國】Fitch「Pinnacle Rewind 2026」網路研討會，2026/08/18（線上）
+
 <!-- 下週請在此線以下附加新清單 -->
