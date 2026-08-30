@@ -16,4 +16,14 @@
 7.【會議】EMS World Expo 2026＋NAEMT 年會，2026/09/28–10/02，Orlando（Orange County Convention Center）
 8.【未來活動】NHTSA EMS Focus 網路研討會，2026/07/23（線上）
 
+## 2026-08-30（涵蓋 2026/08/23–08/30）
+
+1.【美國】極端高溫與 33 種急診診斷關聯研究（西北大學，《Science Advances》，事件日期 2026-08-26）
+2.【美國】威州 Baraboo 消防暨救護特區 US$220 萬短絀、示警砍服務（事件日期 2026-08-24）
+3.【台灣】台中跨隊救援遭機車中柱刺穿大腿婦人（事件日期 2026-08-25）
+4.【國際】無人機投遞 AED 實證研究（Frontiers in Public Health，事件日期 2026-08-24）
+5.【澳洲】Ambulance Victoria 新科救護員 9/14 進駐外東區分隊（事件日期 2026-09-14）
+6.【台灣】澎湖縣消防局西嶼分隊竹灣社區 CPR＋AED 教育（事件日期 2026-08-27）
+7.【會議｜美國】National Conference on EMS，2026/11/17–20，Atlantic City NJ（Harrah's Waterfront Conference Center）
+
 <!-- 下週請在此線以下附加新清單 -->
