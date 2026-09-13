@@ -16,4 +16,13 @@
 7.【會議】EMS World Expo 2026＋NAEMT 年會，2026/09/28–10/02，Orlando（Orange County Convention Center）
 8.【未來活動】NHTSA EMS Focus 網路研討會，2026/07/23（線上）
 
+## 2026-09-13（涵蓋 2026/09/07–09/13）
+
+1.【美國】印第安納州全面終止醫院轉診分流(hospital diversion)，僅限重大災害／關鍵基礎設施故障才可分流，成全美第三州（事件日期 2026-09-09 生效）
+2.【美國】康乃狄克州啟動全州首個行動整合照護(MIH)計畫，Hartford HealthCare／Backus／American Ambulance 派救護員到宅照護東康州 10 偏鄉社區（事件日期 2026-09-08）
+3.【台灣】內政部消防署「【救護×執法】救在當下：CIT 跨域整合與專業實務國際研討會」，2026/09/09–09/10；9/9 頒第 9 屆消防績優救護人員獎（事件日期 2026-09-09～09-10）
+4.【澳洲】Ambulance Victoria 新科畢業與 MICA 救護員 9/14 上線，進駐 Mildura／Horsham／Wonthaggi（事件日期 2026-09-14）
+5.【美國】【會議】NHTSA EMS Focus 線上研討會，2026-09-22（線上、全國性）
+6.【國際】【會議】EMS World Expo 2026 主題演講揭曉：FIFA 世界盃醫療總監 Dr. Eric Ossmann「Beyond the Pitch」，主題演講 2026/09/30；大會 2026/09/28–10/02，Orlando（Orange County Convention Center West）
+
 <!-- 下週請在此線以下附加新清單 -->
