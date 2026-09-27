@@ -16,4 +16,14 @@
 7.【會議】EMS World Expo 2026＋NAEMT 年會，2026/09/28–10/02，Orlando（Orange County Convention Center）
 8.【未來活動】NHTSA EMS Focus 網路研討會，2026/07/23（線上）
 
+## 2026-09-27（涵蓋 2026/09/21–09/27）
+
+1.【美國】田納西 I-26（Kingsport）二次事故：4 名消防／救護人員（含 1 名 Sullivan County EMT）遭撞送醫；路邊作業安全／Move Over（事件日期 2026-09-21）
+2.【美國】懷俄明 Fremont 郡 30 名工會救護員投票罷工、換約恐失集體協商權（事件日期 2026-09-20；預定 9/28 罷工）
+3.【美國】奧克拉荷馬鄉村 EMS 示警：成本漲幅超越地方財產稅收，牽動 11 月 SQ 843 公投（事件日期 2026-09-23）
+4.【美國】2026 NAEMT 年度救護員 Oscar Monterrosa 獲選，將於 EMS World Expo 表揚（名單公布本週；9/28 起表揚）
+5.【台灣】新北市消防局「2026 新北緊急救護研討會」，OHCA 康復出院率 3.1%→12.15%，推院前輸血／ECMO／Doctor Car（事件日期 2026-09-21）
+6.【會議】NAEMSP 2027 年會（全美 EMS 醫師協會），2027/01/11–16，Austin, TX（JW Marriott Austin）
+7.【國際・會議】EMS World Expo 2027，2027/09/27–10/01，New Orleans, LA
+
 <!-- 下週請在此線以下附加新清單 -->
