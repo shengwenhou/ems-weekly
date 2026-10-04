@@ -16,4 +16,14 @@
 7.【會議】EMS World Expo 2026＋NAEMT 年會，2026/09/28–10/02，Orlando（Orange County Convention Center）
 8.【未來活動】NHTSA EMS Focus 網路研討會，2026/07/23（線上）
 
+## 2026-10-04（涵蓋 2026/09/28–10/04）
+
+1.【美國】醫療後送直升機（REACH Air Medical，EC135）墜入加州 Catalina 島外海，5 人中 2 死、病患一度失蹤後尋回、2 人獲救，NTSB 調查（事件日期 2026-10-01）
+2.【美國】加州 San Bernardino 郡啟用新救護系統，CONFIRE EMS & Mobile Health 取代 AMR、偕 Priority Ambulance（事件日期 2026-10-01）
+3.【加拿大】Essex-Windsor EMS 勞資談判破裂，恐最快 2026-10-09 爆史上首次救護罷工（事件日期 2026-10-02）
+4.【美國】華盛頓州 Spokane 郡第 11 消防區警告 EMS 稅捐續徵未過將削減服務（事件日期 2026-10-02）
+5.【台灣】國合會偕台大雲林分院、雲林縣消防局之台灣–索馬利蘭緊急醫療合作成果發表會，OHCA 獲救者現身分享（事件日期 2026-09-29）
+6.【會議·未來】EMS Association Summit（EAS）2027，2027/02/09–11，Lexington, Kentucky（全美各州 EMS／救護協會領導齊聚）
+7.【會議·未來】2027 全美 EMS 大會（NCEMS），2027/11/15–20，Atlantic City, New Jersey
+
 <!-- 下週請在此線以下附加新清單 -->
